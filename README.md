@@ -26,7 +26,7 @@ Developed an interactive Power BI dashboard using Olist e-commerce data to analy
 - Data Visualization
 
 ## Project Files
-- `Olist E-Commerse.pbit` — Power BI report template.
+- `Olist E-Commerse.pbix` — Power BI report template.
 - `dashboard.png` — Dashboard preview.
 
 ## Dashboard Preview
